@@ -28,7 +28,7 @@ float: none;
 .button {
 background-color: #00385C;
 border: none;
-color: White;
+color: white;
 padding: 10px 20px;
 text-align: center;
 text-decoration: none;
@@ -36,6 +36,11 @@ display: inline-block;
 margin: 4px 2px;
 cursor: pointer;
 border-radius: 16px;
+}
+
+div a{
+ color:white;
+ text-decoration: none; 
 }
 
 .button:hover {
