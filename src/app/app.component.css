@@ -23,6 +23,7 @@ font-family: PT sans-serif;
 padding: 20px ;
 font-size: 20px;
 float: none;
+text-decoration: none
 }
 
 .button {
@@ -36,6 +37,7 @@ display: inline-block;
 margin: 4px 2px;
 cursor: pointer;
 border-radius: 16px;
+
 }
 
 div a{
@@ -47,15 +49,18 @@ div a{
 background-color: #F77E31;
 }
 
-div h1 
+
+
+
 
 .button2 {
 align-self:center;
-background-color:#1e919c;
-border-radius: 10px;
+color:#00385C;;
+border-radius: 20px;
 border-color:white;
 margin: 4px 4px;
-width:32.5%;
+padding: 10px;
+text-decoration: none;
 }
 
 .button2:hover {
@@ -77,4 +82,9 @@ Posistion:fixed;
 Top:px;
 width: 32.5%;
 font-size: 20px;
+text-decoration: none;
+}
+
+*{
+  text-decoration: none;
 }
