@@ -18,12 +18,14 @@ nav {
 }
 
 .body1{
-background-color:#33CCFF;
+background-image: url("https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 font-family: PT sans-serif;
-padding: 20px ;
+padding-left: 7% ;
+padding-top: 2%;
 font-size: 20px;
-float: none;
-text-decoration: none
+float: center;
+text-decoration: none;
+
 }
 
 .button {
