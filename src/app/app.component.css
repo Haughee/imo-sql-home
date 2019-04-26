@@ -18,11 +18,10 @@ nav {
 .body1{
 background-image: linear-gradient(#ccc, blue);
 font-family: PT sans-serif;
-padding-left: 7% ;
 font-size: 20px;
 float: center;
 text-decoration: none;
-padding-top: 4%
+padding: 3% 0%;
 
 }
 
